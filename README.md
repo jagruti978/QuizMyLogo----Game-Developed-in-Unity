@@ -29,7 +29,7 @@ Only allowed when all slots are filled.
  -Next logo appears automatically.
 
 ## Game Rules
-##Stars
+## Stars
 
 3 Stars: More than ⅔ time left
 
@@ -53,7 +53,7 @@ Time runs out → –1 coin
 
 When it hits 0 → You fail that quiz and lose 1 coin
 
-##Game End
+## Game End
 
 Finish all logos → You Win and get a Rank
 
